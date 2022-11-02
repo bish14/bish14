@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bish14
+- 👋 Hi, I’m @bish14 aka Bhishma
 - 👀 I’m interested in learning and using github and developer tools in my daily operations and labs
 - 🌱 I’m currently learning Github essentials, HTML, Java, Python, css
 - 💞️ I’m looking to collaborate for something I'm not sure at this time.
